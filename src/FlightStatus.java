@@ -1,0 +1,7 @@
+public enum FlightStatus {
+  ACTIVE,
+  NON_ACTIVE,
+  COMPLETED,
+  NOT_COMPLETED,
+  ACTIVE_AND_COMPLETED,
+}
