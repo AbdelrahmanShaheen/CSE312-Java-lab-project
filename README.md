@@ -1,10 +1,8 @@
 # Airline reservation system
 ## About
-- An Airline Management System is a managerial software which 
-targets to control all operations of an airline. Airlines provide 
-transport services for their passengers. They carry or hire 
-aircraft for this purpose. All operations of an airline company 
-are controlled by their airline management system.
+The Airline Management System is a Console App solution for airline operations. it provides full control over
+flight schedules, passenger reservations, and flight information management. Developed as part of a college
+course, the project was made using java and OOP.
 
 - Note: The main user for the system is an admin(he can do all operations in the system).
 
